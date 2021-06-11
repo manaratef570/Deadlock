@@ -1,0 +1,2 @@
+# Deadlock
+It is needed to be familiar with the Deadlock problem and how to solve it. Therefore, it is required to apply the deadlock avoidance algorithms by applying the Banker's algorithm. You will write a Java code that implements the banker’s algorithm: processes request and release resources and the banker will grant a request only if it leaves the system in a safe state. A request is denied if it leaves the system in an unsafe state
